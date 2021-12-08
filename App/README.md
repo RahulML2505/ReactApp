@@ -26,7 +26,7 @@ A demo react app to learn a basic react production, throw components and [node_m
   - public
   - templates
 
-- Configuring `webpack` module with `webpack.config.json`,
+- Configuring `webpack` module with `webpack.config.json`:
 
   ```bash
   $ touch webpack.config.js
@@ -34,7 +34,7 @@ A demo react app to learn a basic react production, throw components and [node_m
 
   visit the [code](./webpack.config.js).
 
-- Configuring `babel-loader` module with `babel.config.json`,
+- Configuring `babel-loader` module with `babel.config.json`:
 
   ```bash
   $ touch babel.config.json
