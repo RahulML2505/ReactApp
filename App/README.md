@@ -21,6 +21,8 @@ A demo react app to learn a basic react production, throw components and [node_m
 
 - Creating required folders:
 
+  use `mkdir` command as `mkdir <folder-name>`
+
   - src
   - static
   - public
