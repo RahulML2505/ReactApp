@@ -41,7 +41,7 @@ A demo react app to learn a basic react production, throw [components](./src/com
 
 - Creating `JavaSrcipt` files:
 
-  under the `src` directory, create `index.js` & `App.js` files, and make a `component` directory.
+  under the [`src`](./src) directory, create `index.js` & `App.js` files, and make a [`components`](./src/components) directory.
 
   the project directory should look like bellow,
 
@@ -66,9 +66,9 @@ A demo react app to learn a basic react production, throw [components](./src/com
     import App from "./App";
 
     ReactDOM.render(
-      <React.ScrictMode>
+      <React.StrictMode>
         <App />
-      <React.ScrictMode/>,
+      <React.StrictMode/>,
       document.getElementById("main")
     );
     ```
